@@ -9,6 +9,7 @@ public enum Algorithm {
     MD5("MD5"),
     RSA("RSA"),
     AES("AES"),
+    DES("DES"),
     SHA_1("SHA-1"),
     SHA_256("SHA-256"),
     SHA_384("SHA-384"),
